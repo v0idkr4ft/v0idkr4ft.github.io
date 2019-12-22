@@ -1,0 +1,23 @@
+colors
+
+grey = #666
+lightgrey =#8c8c8c
+
+purple = #836ba8
+
+green = #90a959
+
+black = #151515
+
+white = #515151
+
+teal = #416a86
+
+-----------------------------------------------------------------
+old/edited
+.post:hover {
+  -webkit-transform: translate(0px, -2px);
+      -ms-transform: translate(0px, -2px);
+          transform: translate(0px, -2px);
+  -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
+          box-shadow: 0 15px 45px -10px rgba(77, 65, 134, 0.69);
