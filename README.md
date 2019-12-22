@@ -1,6 +1,6 @@
 # v0idkr4ft - adventures in learning to code
 
-![](https://github.com/v0idkr4ft/v0idkr4ft.github.io/assets/img/slugcity.jpg?raw=true)
+![](https://raw.githubusercontent.com/v0idkr4ft/v0idkr4ft.github.io/master/assets/img/slugcity.jpg)
 
 ## Website
 
@@ -8,7 +8,7 @@ Hello World! [Wordpress](https://v0idkr4ft.com/)
 
 Meep:
 
-![v0idkr4ft](https://github.com/v0idkr4ft/v0idkr4ft.github.io/assets/img/facemlt.gif?raw=true)
+![v0idkr4ft](https://raw.githubusercontent.com/v0idkr4ft/v0idkr4ft.github.io/master/assets/img/facemlt.gif)
 
 ## License
 
