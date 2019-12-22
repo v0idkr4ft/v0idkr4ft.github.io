@@ -98,11 +98,18 @@ pre {
  */
 a {
   background-color: transparent;
+  color: #836ba8;
   /* 1 */
   -webkit-text-decoration-skip: objects;
   /* 2 */
 }
-
+/** link hovers
+------------------------------------------------------------------------------
+*/
+a:hover {
+  color: #90a959;
+  
+}
 /**
  * 1. Remove the bottom border in Chrome 57- and Firefox 39-.
  * 2. Add the correct text decoration in Chrome, Edge, IE, Opera, and Safari.
@@ -1363,7 +1370,7 @@ a.newer-posts:hover {
 
 .tag-list span a {
   text-decoration: none;
-  color: #263959;
+  color: #fff;
 }
 
 .tag-list span a:hover {
