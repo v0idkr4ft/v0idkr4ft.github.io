@@ -1,30 +1,14 @@
-# Flexible-Jekyll is a simple and clean theme for Jekyll
+# v0idkr4ft - adventures in learning to code
 
-![](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/promo-img.jpg?raw=true)
+![](https://github.com/v0idkr4ft/v0idkr4ft.github.io/assets/img/slugcity.jpg?raw=true)
 
-## Demo
+## Website
 
-Check the theme in action [Demo](https://artemsheludko.github.io/flexible-jekyll/)
+Hello World! [Wordpress](https://v0idkr4ft.com/)
 
-The main page would look like this:
+Meep:
 
-![Main page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/home-page.jpg?raw=true)
-
-The post page would look like this:
-
-![Post page preview](https://github.com/artemsheludko/flexible-jekyll/blob/master/assets/img/post-example.jpg?raw=true)
-
-## Features
-
-- [Google Fonts](https://fonts.google.com/)
-- [Font Awesome](http://fontawesome.io/)
-- [Disqus](https://disqus.com/)
-- [Analytics](https://analytics.google.com/analytics/web/)
-- Support Emoji
-
-## Installation:
-
-Fork the ``master`` branch and follow the [Jekyll Installation Documentation](https://jekyllrb.com/docs/installation/).
+![v0idkr4ft](https://github.com/v0idkr4ft/v0idkr4ft.github.io/assets/img/facemlt.gif?raw=true)
 
 ## License
 
