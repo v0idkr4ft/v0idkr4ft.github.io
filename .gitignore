@@ -6,6 +6,9 @@ Gemfile.lock
 package-lock.json
 node_modules/
 
+## active files ##
+_config.yml~
+_layouts/main.html~
 ### macOS ###
 *.DS_Store
 .AppleDouble

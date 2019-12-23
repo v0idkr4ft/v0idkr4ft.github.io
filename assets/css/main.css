@@ -782,7 +782,7 @@ html {
 body {
   font-family: 'Lato', sans-serif;
   color: #8c8c8c;
-  background-color: #fbfbfb;
+  background-color: #151515;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -856,7 +856,7 @@ table tr:nth-child(even) {
 }
 
 table thead {
-  background: #a9c4d1;
+  background: #151515;
   background: -webkit-gradient(linear, left top, left bottom, from(#bed3dc), color-stop(66%, #b1cad5), to(#A9C4D1));
   background: -webkit-linear-gradient(top, #bed3dc 0%, #b1cad5 66%, #A9C4D1 100%);
   background: -o-linear-gradient(top, #bed3dc 0%, #b1cad5 66%, #A9C4D1 100%);
