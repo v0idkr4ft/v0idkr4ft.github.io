@@ -6,7 +6,7 @@
 
 Hello World! [v0idkr4ft](https://v0idkr4ft.com/)
 
-Meep: this repo compiled as a github.io [page](https://v0idkr4ft.github.io/
+Meep: this repo compiled as a github.io [page](https://v0idkr4ft.github.io/)
 
 ![v0idkr4ft](https://raw.githubusercontent.com/v0idkr4ft/v0idkr4ft.github.io/master/assets/img/facemlt.gif)
 
