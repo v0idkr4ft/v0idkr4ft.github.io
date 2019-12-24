@@ -9,6 +9,7 @@ node_modules/
 ## active files ##
 _config.yml~
 _layouts/main.html~
+main.css~
 ### macOS ###
 *.DS_Store
 .AppleDouble

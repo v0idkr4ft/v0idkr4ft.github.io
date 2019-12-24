@@ -448,7 +448,11 @@ template {
   -webkit-border-radius: 3px;
           border-radius: 3px;
   margin: 0;
+  /** scrollable overflow limit */
+  max-height: 300px;
+  overflow-y: auto;
 }
+
 
 .highlighter-rouge {
   color: #90a959;
@@ -538,7 +542,7 @@ template {
 
 /* Generic.Output */
 .highlight .gp {
-  color: #009;
+  color: #90a959;
 }
 
 /* Generic.Prompt */
