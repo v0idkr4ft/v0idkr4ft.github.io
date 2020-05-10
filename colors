@@ -4,8 +4,10 @@ grey = #666
 lightgrey =#8c8c8c
 
 purple = #836ba8
+brighter =#7d4cc8
 
 green = #90a959
+brighter= #9bc73d
 
 black = #151515
 
@@ -14,10 +16,14 @@ white = #515151
 teal = #416a86
 
 -----------------------------------------------------------------
-old/edited
-.post:hover {
-  -webkit-transform: translate(0px, -2px);
-      -ms-transform: translate(0px, -2px);
-          transform: translate(0px, -2px);
-  -webkit-box-shadow: 0 15px 45px -10px rgba(10, 16, 34, 0.2);
-          box-shadow: 0 15px 45px -10px rgba(77, 65, 134, 0.69);
+жDзliяiцмж Zhaellia жКдliзяisж paneris Zeneris Kalipan
+-------------------------------------------------------------
+smf sunrise theme old
+a {
+   color: #5b8397;
+} a:hover {
+   color: #33a0d5;
+   color: #702000;
+} 
+a:hover {
+   color: #FF6120;

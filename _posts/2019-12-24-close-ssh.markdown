@@ -2,13 +2,13 @@
 layout: post
 title: Should probably close that ssh port!
 date: 2019-12-23 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img:  # Add image post (optional)
+description: Port 22 assault # Add post description (optional)
+img:  sshsh.png # Add image post (optional)
 tags: [ssh, hackers,] # add tag
 ---
 
 
-fail2ban may have slowed it down but settings should probably be tweaked as well. That 218 IP is persistant and looking at the /var/log/auth.log showed none were successful... so many IP's tho, botnet? wat
+fail2ban may have slowed attacks down but the jail config should probably be ammended as well. That 218 IP is a persistant one. Looking at the /var/log/auth.log showed none were successful... so many IP's tho, botnet? wat
 
 {% highlight console %}
 user@linux:~ $ ssh hey@donttouchme
