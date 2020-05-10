@@ -1,28 +1,28 @@
-title: Oh Hai!
+title: ꧁ⅴØɨᖙʞr4ʄߙ꧂
 description: > # this means to ignore newlines until "baseurl:"
   v0idkr4ft@nexus - ₴̦͕̼͎̹͔͔̱̰̑̒͛̋ͨͭ̽ͥ₱̬̬̌ͅł̫̰͉̅̍̀Ɽ̝̠͉͎͓̥͙̯̬̅̑ͭ͌̔ͣ₳̟͖͒̉Ⱡ̜̝̥̻͆̊̌͋͑ ̝̯̳͎͈̞̣̪ͯ̈̋&̣̯̤̙̦̦̔̋̍ͣ̈́͆ ̤̬̭̿̑ͭͩ̿₣̣̠͎̠̪̲͎̂ͬ̽͋̾̃Ⱡ̪̻̋̌̎̈́ͦͧ͑Ʉ̮͚̼ͫͯ̈͂̍ͫ̉̓̉ͅӾ̀̓ͪͤ͛ͦ
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: https://jekyll.v0idkr4ft.com # the base hostname & protocol for your site, e.g. http://example.com
+url: https://v0idkr4ft.com # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: v0idkr4ft #if your site has a twitter account, enter it here
 
 # Author Settings
 author: v0idkr4ft # add your name
-author-img: facemlt.gif # add your photo
+author-img: fcpng.png # add your photo
 about-author: Time is moving faster now. # add description
-custom-link: https://v0idkr4ft.com/about
-custom-text: ₴̦͕̼͎̹͔͔̱̰̑̒͛̋ͨͭ̽ͥ₱̬̬̌ͅł̫̰͉̅̍̀Ɽ̝̠͉͎͓̥͙̯̬̅̑ͭ͌̔ͣ₳̟͖͒̉Ⱡ̜̝̥̻͆̊̌͋͑ ̝̯̳͎͈̞̣̪ͯ̈̋&̣̯̤̙̦̦̔̋̍ͣ̈́͆ ̤̬̭̿̑ͭͩ̿₣̣̠͎̠̪̲͎̂ͬ̽͋̾̃Ⱡ̪̻̋̌̎̈́ͦͧ͑Ʉ̮͚̼ͫͯ̈͂̍ͫ̉̓̉ͅӾ̀̓ͪͤ͛ͦ 
+custom-link: https://v0idkr4ft.com
+custom-text: ₴̦͕̼͎̹͔͔̱̰̑̒͛̋ͨͭ̽ͥ₱̬̬̌ͅł̫̰͉̅̍̀Ɽ̝̠͉͎͓̥͙̯̬̅̑ͭ͌̔ͣ₳̟͖͒̉Ⱡ̜̝̥̻͆̊̌͋͑ ̝̯̳͎͈̞̣̪ͯ̈̋&̣̯̤̙̦̦̔̋̍ͣ̈́͆ ̤̬̭̿̑ͭͩ̿₣̣̠͎̠̪̲͎̂ͬ̽͋̾̃Ⱡ̪̻̋̌̎̈́ͦͧ͑Ʉ̮͚̼ͫͯ̈͂̍ͫ̉̓̉ͅӾ̀̓ͪͤ͛ͦ
 social-twitter: v0idkr4ft # add your Twitter handle
 social-reddit: v0idkr4ft # add your Reddit handle
 social-github: v0idkr4ft # add your Github handle
 social-instagram: v0idkr4ft # add your Instagram handle
-social-email: sage@v0idkr4ft.com # add your Email address
+social-email: kalieris@v0idkr4ft.com # add your Email address
 
 # Disqus
 discus-identifier: v0idkr4ft  # add your discus identifier
 
 # Tracker
-analytics: UA-154951018-1 # Google Analytics
+# analytics: UA-154951018-1 # Google Analytics
 
 # Build Settings
 markdown: kramdown
