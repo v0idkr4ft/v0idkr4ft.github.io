@@ -1248,16 +1248,16 @@ a.older-posts, a.newer-posts {
 
 a.older-posts:hover {
   color: #90a959;
-  -webkit-transform: translateX(4px);
-      -ms-transform: translateX(4px);
-          transform: translateX(4px);
+  -webkit-transform: translateX(3px);
+      -ms-transform: translateX(3px);
+          transform: translateX(3px);
 }
 
 a.newer-posts:hover {
   color: #90a959;
-  -webkit-transform: translateX(-4px);
-      -ms-transform: translateX(-4px);
-          transform: translateX(-4px);
+  -webkit-transform: translateX(-3px);
+      -ms-transform: translateX(-3px);
+          transform: translateX(-3px);
 }
 
 
