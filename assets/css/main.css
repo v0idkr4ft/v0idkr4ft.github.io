@@ -1069,6 +1069,21 @@ scale3d(1, 1, 1); }
 .twobz:hover {
    -webkit-animation: twubz 3s ease infinite alternate;
 }
+@-webkit-keyframes wubz {
+      0% { -webkit-transform:
+scale3d(1, 1, 1); }
+     40% { -webkit-transform: scale3d(0.8, 0.9, 1); }
+     75% { -webkit-transform: scale3d(1.2, 1.1, 1); }
+     100% { -webkit-transform: scale3d(1, 1, 0.4); }
+}
+.wobz {
+-webkit-border-radius: 50%;
+      border-radius: 50%;
+
+}
+.wobz:hover {
+-webkit-animation: wubz 3s ease infinite alternate;
+}
 
 .about .custom-link {
   margin: 0 0 10px;
