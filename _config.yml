@@ -23,9 +23,9 @@ discus-identifier: v0idkr4ft  # add your discus identifier
 
 # Tracker
 # analytics: UA-154951018-1 # Google Analytics
-Matomo:                   # Add, if you want to track with Matomo (former Piwik Analytics)
-    url: analytics.v0idkr4ft.com # Required - url to Matomo installation without trailing /
-    siteId: "2"          # Required - replace with your Matomo site id (Write id as string)
+#Matomo:                   # Add, if you want to track with Matomo (former Piwik Analytics)
+#    url: analytics.v0idkr4ft.com # Required - url to Matomo installation without trailing /
+#    siteId: "2"          # Required - replace with your Matomo site id (Write id as string)
 # Build Settings
 markdown: kramdown
 plugins:
