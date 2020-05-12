@@ -3,6 +3,24 @@ layout: main
 title: Tags
 permalink: /tags/
 ---
+<!-- Html Elements for Search -->
+<!--<div id="search-container" style="float: right;">
+<input type="text" id="search-input" placeholder="search...">
+<ul id="results-container"></ul>
+</div>
+
+<!-- Script pointing to search-script.js
+<script src="/js/search-script.js" type="text/javascript"></script>
+
+<!-- Configuration
+<script>
+SimpleJekyllSearch({
+  searchInput: document.getElementById('search-input'),
+  resultsContainer: document.getElementById('results-container'),
+  json: '/search.json'
+})
+</script> -->
+
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tag_words = site_tags | split:',' | sort %}
 
