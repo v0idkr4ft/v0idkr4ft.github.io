@@ -4,7 +4,7 @@ title: "SynthWave"
 date: "2020-05-10 18:45"
 description: can't get enough lately.
 img: valenberg.gif
-tags: [synthewave, valenberg, perturbator, gost, dance with the dead]
+tags: [synthewave, valenberg, perturbator, gost, dance with the dead, music]
 ---
 # Some of the music that's been circling the que as of late.
 
