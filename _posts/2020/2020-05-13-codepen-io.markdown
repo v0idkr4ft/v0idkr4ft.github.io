@@ -7,7 +7,7 @@ tags: [codepen, code, css, html]
 
 ## webkit animation ##
 
-<p class="codepen" data-height="323" data-theme-id="dark" data-default-tab="result" data-user="v0idkr4ft" data-slug-hash="QWwaJRq" style="height: 323px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Spin center wob pic">
+<p class="codepen" data-height="350" data-theme-id="dark" data-default-tab="result" data-user="v0idkr4ft" data-slug-hash="QWwaJRq" style="height: 350px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Spin center wob pic">
   <span>See the Pen <a href="https://codepen.io/v0idkr4ft/pen/QWwaJRq">
   Spin center wob pic</a> by ꧁ⅴØɨᖙƙr4ʄߙ꧂ (<a href="https://codepen.io/v0idkr4ft">@v0idkr4ft</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
