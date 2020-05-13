@@ -18,6 +18,6 @@ tags: [codepen, code, css, html]
 </div>
 </div>
 
-[CodePen.Io][e60a62ec] *codes & fiddles*
+[CodePen.Io][e60a62ec] *codes & fiddles*-
 
   [e60a62ec]: https://codepen.io/v0idkr4ft "Codes & Fiddles / animation snippets."
