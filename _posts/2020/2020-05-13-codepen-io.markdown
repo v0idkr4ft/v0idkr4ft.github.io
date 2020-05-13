@@ -16,6 +16,7 @@ tags: [codepen, code, css, html]
     </div>
   </div>
 </div>
+</div>
 
 [CodePen.Io][e60a62ec] *codes & fiddles*
 
