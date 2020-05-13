@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Here today, gone tomorrow."
-date: "2020-05-10 18:12"
+date: "2020-05-8 18:12"
 description: "Arcana- Arc of the testimony"
 img: musart/arcana.jpg
 tags: [Arcana, laswell, Buckethead, music ]

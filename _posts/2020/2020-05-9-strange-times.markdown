@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Strange Times."
-date: "2020-05-10 09:35"
+date: "2020-05-9 09:35"
 ---
 # Starting up codecamp again
 ## The future may be uncertain as ever, but have rekindled that spark for learning.

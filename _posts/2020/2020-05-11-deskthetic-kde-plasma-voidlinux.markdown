@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Deskthetic - KDE[plasma]voidlinux'
-date: '2020-05-10 10:33'
+date: '2020-05-11 10:33'
 description: workflow minus work
 img: plasma.png
 tags: [linux, voidlinux, KDE, plasma]
