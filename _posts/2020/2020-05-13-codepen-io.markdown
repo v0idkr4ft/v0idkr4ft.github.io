@@ -5,16 +5,16 @@ date: "2020-05-13 18:30"
 tags: [codepen, code, css, html]
 ---
 
-## webkit animation ##
+## webkit animation- ##
 
 <p class="codepen" data-height="350" data-theme-id="dark" data-default-tab="result" data-user="v0idkr4ft" data-slug-hash="QWwaJRq" style="height: 350px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;" data-pen-title="Spin center wob pic">
   <span>See the Pen <a href="https://codepen.io/v0idkr4ft/pen/QWwaJRq">
-  Spin center wob pic</a> by ꧁ⅴØɨᖙƙr4ʄߙ꧂ (<a href="https://codepen.io/v0idkr4ft">@v0idkr4ft</a>)
+  Spininin&out</a> by ꧁ⅴØɨᖙƙr4ʄߙ꧂ (<a href="https://codepen.io/v0idkr4ft">@v0idkr4ft</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
 <script async src="https://static.codepen.io/assets/embed/ei.js"></script>
 
-[CodePen.Io][e60a62ec] *codes & fiddles*-
+*codes & fiddles*- [CodePen.Io][e60a62ec]
 
 
 Html
@@ -27,7 +27,7 @@ Html
   <div class="fcspnspn">
     <div class="hovertate">
       <div class="fwobz">
-      <a href="forum.v0idkr4ft.com" target="_blank" class="link"><img src="https://v0idkr4ft.com/assets/img/fcpng.png"></a>
+      <a href="https://codepen.io/v0idkr4ft/pen/QWwaJRq" target="_blank" class="link"><img src="https://v0idkr4ft.com/assets/img/fcpng.png"></a>
       </div>
     </div>
         </div>
