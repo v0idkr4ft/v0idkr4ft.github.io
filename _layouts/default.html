@@ -1,12 +1,38 @@
 <!DOCTYPE html>
 <html lang="en">
 {% include head.html %}
-<body>
+<style>
+.line {
+  height: 1px;
+    width: 105%;
+  margin: -10px auto;
+  position: fixed;
+  background-color: rgba(255,255,255,.2);
+  z-index: 2;
+}
 
+#scan {
+  animation: sc4n 10s 2 ease-in-out;
+}
+
+@keyframes sc4n {
+  0% { margin-top: 105%; }
+  4% {
+    height: 1px;
+  }
+  5% {
+     height: 2em; }
+  9% { height: 1px; }
+  12% { margin-top: -5%;
+  background-color: rgba(255,255,255,.3); }
+}
+</style>
+<body>
+  <div id="scan" class="line"></div>
   <div class="wrapper">
     {{ content }}
   </div>
-  
+
   {% include analytics.html %}
 </body>
 </html>
