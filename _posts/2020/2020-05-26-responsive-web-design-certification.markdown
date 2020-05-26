@@ -10,4 +10,6 @@ next up JavaScript Algorithms and Data Structures!
 
 ![Certification]({{site.baseurl}}/assets/img/rwd.png)
 
-Track my progress at https://www.freecodecam.org/v0idkr4ft
+Track my progress at [FreeCodeCamp][855a5511]
+
+  [855a5511]: https://www.freecodecamp.org/v0idkr4ft "FCC"
