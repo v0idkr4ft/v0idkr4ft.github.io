@@ -7,3 +7,7 @@ tags: [certifications]
 ---
 ## feels good ##
 next up JavaScript Algorithms and Data Structures!
+
+![Certification]({{site.baseurl}}/assets/img/rwd.png)
+
+Track my progress at https://www.freecodecam.org/v0idkr4ft
