@@ -6,7 +6,7 @@ tag: [cop, T.A.Z.]
 img: "taz.jpg"
 ---
 
-##Resolution for the 1990’s: Boycott Cop Culture!!!##
+## Resolution for the 1990’s: Boycott Cop Culture!!! ##
 
 If one fictional figure can be said to have dominated the popcult of the eighties, it was the Cop. Fuckin’ police everywhere you turned, worse than real life. What an incredible bore.
 
