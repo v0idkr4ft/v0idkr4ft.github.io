@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: "Boycott Cop Culture. (from T.A.Z.)"
-date: "2020-06-08 12:11"
+date: "2002-06-08 12:11"
 tag: [cop, T.A.Z.]
 img: taz.jpg
 ---
