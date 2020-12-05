@@ -2,6 +2,7 @@
 layout: "post"
 title: "Keybind to Bookmark a qutebrowser page into nextclouds bookmarks"
 date: "2020-12-04 06:14"
+tags: [nextcloud, qutebrowser, bookmark]
 ---
 
 Gmornin
