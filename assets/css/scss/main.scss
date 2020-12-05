@@ -47,6 +47,7 @@ blockquote {
 }
 
 pre {
+  max-width: 100%;
   padding: 1rem 2rem;
   overflow: auto;
   white-space: pre-wrap;
@@ -54,6 +55,7 @@ pre {
   word-break: break-all;
 
   code {
+    max-width: 100%;
     border: 0;
     padding-right: 0;
     padding-left: 0;
