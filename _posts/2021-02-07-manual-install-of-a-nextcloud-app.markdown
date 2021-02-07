@@ -30,7 +30,7 @@ In particular the nextcloud social app was missing after an update. When I tried
 
  * Just to clarify `sudo su` to become root.
  * Then change to your nextcloud installations apps directory.
- * You can use wget to download the apps tar.gz release file from github.
+ * You can use `wget` to download the apps tar.gz release file from github.
  * extract the file with `tar -zxvf`
  * remove the compressed file
  * set proper permissions with `chown`
