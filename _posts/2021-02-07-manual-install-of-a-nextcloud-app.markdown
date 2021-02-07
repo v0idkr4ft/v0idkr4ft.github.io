@@ -27,3 +27,11 @@ In particular the nextcloud social app was missing after an update. When I tried
  # cd ..
  # sudo -u www-data php occ app:enable social
  {% endhighlight %}
+
+ * Just to clarify `sudo su` to become root.
+ * Then change to your nextcloud installations apps directory.
+ * You can use wget to download the apps tar.gz release file from github.
+ * extract the file with `tar -zxvf`
+ * remove the compressed file
+ * set proper permissions with `chown`
+ * use occ to enable app.
