@@ -34,5 +34,6 @@ In particular the nextcloud social app was missing after an update. When I tried
  * extract the file with `tar -zxvf`
  * remove the compressed file
  * set proper permissions with `chown`
- * use `occ` to enable app. occ lives in your nextcloud installations root folder and is run from there. `sudo -u www-data /var/www/nextcloud/occ`
- *
+ * use `occ` to enable app.
+   - occ lives in your nextcloud installations root folder and is run from there.
+   - `sudo -u www-data /var/www/nextcloud/occ`
