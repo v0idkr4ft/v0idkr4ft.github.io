@@ -16,4 +16,6 @@ In particular the nextcloud social app was missing after an update. When I tried
 ## The steps ##
 
  You will need ssh access to your cloud server and root.
+ `sudo su` to become root
+ `cd /var/www/nextcloud/apps` change to the directory of your nextcloud installations apps folder.
  
